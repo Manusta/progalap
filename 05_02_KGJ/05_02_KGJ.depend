@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633445332 source:c:\users\kalman1\documents\kalman_gabor_j\05_02_kgj\main.c
+	<stdio.h>
+	<stdlib.h>
+
